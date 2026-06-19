@@ -5,7 +5,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?style=for-the-badge&logo=github)](https://suyashdworkspace.github.io/OmniPost/)
 [![Repository](https://img.shields.io/badge/Repository-GitHub-black?style=for-the-badge&logo=github)](https://github.com/suyashdworkspace/OmniPost)
 
-🌟 **[View Live Demo](https://suyashdworkspace.github.io/omnipost/)** 🌟
+🌟 **[View Live Demo](https://suyashdworkspace.github.io/OmniPost/)** 🌟
 
 ## 🏆 About This Project
 
